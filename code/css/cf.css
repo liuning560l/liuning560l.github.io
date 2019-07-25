@@ -1,0 +1,135 @@
+#chaofan{
+    width: 100%;
+    height: 5302px;
+    background: #ffffff;
+}
+#chaofan .nev{
+    height: 83px;
+    width: 100%;
+    background: #ffffff;
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+   margin-left: 100px;
+  
+}
+#chaofan .nev h1{
+    margin-left: -999px;
+    float: left;
+    width: 560px;
+    height: 83px;
+}
+.nev-a{
+    width: 670px;
+    height: 83px;
+    /* background: yellow; */
+    float: right;
+}
+.nev-a ul{
+    height: 83px;
+}
+.nev-a li{
+    float: left;
+    font-size: 12px;
+    height: 12px;
+    color: #333333;
+    text-align: center;
+    line-height: 12px; 
+    margin-right: 30px;
+    margin-top: 35px;
+}
+.nev-a  ul li a{
+    display: block;
+}
+.nev-a ul li .yingwen{
+    display: none;
+    text-transform: uppercase;
+}
+.nev-a ul li:hover .zhongwen{
+    display: none;
+}
+.nev-a ul li:hover .yingwen{
+    display: block;
+}
+#chaofan .banner{
+    height: 448px;
+    width: 100%;
+    background: olive;
+    background-image: url(../images/56f3527bb57ce.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+#chaofan .main1{
+    height: 726px;
+    width: 100%;
+    background: red;
+}
+#chaofan .main2{
+    height: 764px;
+    width: 100%;
+    background: palegreen;
+    padding-top: 42px;
+}
+.main2-1{
+    width: 1139px;
+    height: 501px;
+    background: olive;
+    margin: auto;
+    margin-top: 57px;
+}
+.aa{
+    width: 283px;
+    height: 166px;
+    background: red;
+}
+.aa, .bb, .cc, .dd, .ee ,.ff, .gg, .hh, .ii, .jj, .kk, .ll {
+    float: left;
+}
+.aa, .bb, .cc, .ee, .ff, .gg, .ii, .jj, .kk{
+    margin-right: 2px;
+}
+.aa, .bb, .cc, .dd, .ee, .ff, .gg, .hh, .ii{
+    margin-bottom: 2px;
+}
+/* .aa:hover .a1{
+    display: none;
+}
+.aa:hover .a2{
+    display: block;
+} */
+
+.main2 h2{
+    text-align: center;
+}
+.main2 p{
+    text-align: center;
+    font-size: 17px;
+    color: #876666;
+    margin-top: 26px;
+}
+
+#chaofan .main3{
+    height: 682px;
+    width: 100%;
+    background: orchid;
+}
+#chaofan .main4{
+    height: 801px;
+    width: 100%;
+    background: gold; 
+}
+#chaofan .main5{
+    height: 912px;
+    width: 100%;
+    background: goldenrod;
+} 
+#chaofan .main6{
+    height: 224px;
+    width: 100%;
+    background: paleturquoise;
+}
+#chapfan .footer{
+    height: 663px;
+    width: 100%;
+    background: yellow;
+}
